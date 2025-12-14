@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://racheli-lushi-bareket-e6483257.zappy5.app/sitemap.xml
